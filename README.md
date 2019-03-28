@@ -1,7 +1,7 @@
 # Free Speech
 
 ## What is it?
-Free Speech is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, everyone is required to prepare a lecture that spans from five to ten minutes. After each lecture, time will be alloted for questions and debating. Free Speech meetings provide a healthy and civil environment for discussing all kinds of ideologies. Participants will be challenged on their ideas, and never their character for having controversial opnions.  
+Free Speech is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, everyone is required to prepare a lecture that spans from five to ten minutes. After each lecture, time will be allotted for questions and debate. Free Speech meetings provide a healthy and civil environment for discussing all kinds of ideologies. Participants will be challenged on their ideas, and never their character for having controversial opinions.  
 
 ## What is the purpose?
 The purpose of Free Speech meetings are to spread new ideas and to change perspectives on current ones. 

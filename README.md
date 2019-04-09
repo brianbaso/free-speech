@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="free-teach-trans-readme.png">
+</p>
+
 # Free Teach
 
 ## What is it?

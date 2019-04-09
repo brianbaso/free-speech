@@ -2,8 +2,6 @@
   <img src="free-teach-trans-readme.png">
 </p>
 
-# 
-
 ## What is it?
 Free Teach is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, everyone is required to prepare a lecture that spans from ten to thirty minutes. After each lecture, time will be allotted for questions and debate. Free Teach meetings provide a healthy and civil environment for discussing all kinds of ideologies. Participants will be challenged on their ideas, never their character for having controversial opinions.  
 
@@ -27,7 +25,7 @@ The optimal scheduling for a Free Teach meeting is as follows:
 * **Lecture + Questions:** (2-3 hours) Lecturing, keep track of the topics that need to be discussed further but got cut off by timing. 
 * **Open Debate:** (Unlimited) Resume the discussion on the topics that have not been settled during the lectures.
 
-### Sample Schedule
+## Sample Schedule
 * **7:30 - 8:00** Socializing
 * **8:00 - 10:00** Four, twenty-minute lectures with ten minutes allotted for questions afterward.
 * **11:00 -** Open debate

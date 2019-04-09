@@ -10,12 +10,12 @@ The purpose of Free Teach meetings are to spread new ideas and to change perspec
 
 ## Consider
 Prior to the event, the host and/or hostess should consider the following:
-* Passion, diversity, and respectfulness among attendees: Anyone admitted to the event should be feel compelled to speak up and discuss their views and opinions with others. A diverse crowd will guarantee a diverse set of views and opinions to discuss. And most importantly, everyone should be exceedingly respectful of everyone else in the room.
-* Timing: It is difficult to keep things on schedule. Consider using a timer for the lecturer that is visible for them to see the entire duration of their lecture. Questions and discussions after the lectures may be worthy of extra time.
-* Hospitality: Consider providing food and drinks for the guests. Are bathrooms clean and available? 
-* Infrastructure: Test the infrastructure prior to the event. Can the computer that has the presentation slides be easily connected to a TV? Is a mic necessary and present? Is there enough seating available for the event?
-* Presentations: Be sure to receive all the presentation slides from the speakers prior to the event, and have them in the cloud in case a device does not work.
-* Program (20+ attendees): If a large event is hosted, consider a program that consists of the speakers and their industry-specific knowledge, along with a general overview of the event and a schedule.
+* **Passion, diversity, and respectfulness among attendees:** Anyone admitted to the event should be feel compelled to speak up and discuss their views and opinions with others. A diverse crowd will guarantee a diverse set of views and opinions to discuss. And most importantly, everyone should be exceedingly respectful of everyone else in the room.
+* **Timing:** It is difficult to keep things on schedule. Consider using a timer for the lecturer that is visible for them to see the entire duration of their lecture. Questions and discussions after the lectures may be worthy of extra time.
+* **Hospitality:** Consider providing food and drinks for the guests. Are bathrooms clean and available? 
+* **Infrastructure:** Test the infrastructure prior to the event. Can the computer that has the presentation slides be easily connected to a TV? Is a mic necessary and present? Is there enough seating available for the event?
+* **Presentations:** Be sure to receive all the presentation slides from the speakers prior to the event, and have them in the cloud in case a device does not work.
+* **Program (20+ attendees):** If a large event is hosted, consider a program that consists of the speakers and their industry-specific knowledge, along with a general overview of the event and a schedule.
 
 ## Scheduling
 The optimal scheduling for a Free Teach meeting is as follows:
@@ -24,6 +24,6 @@ The optimal scheduling for a Free Teach meeting is as follows:
 * **Open Debate:** (Unlimited) Resume the discussion on the topics that have not been settled during the lectures.
 
 ### Sample Schedule
-7:30-8 Socializing
-8-10 Four, twenty-minute lectures with ten minutes allotted for questions afterward.
-11- Open debate
+* **7:30 - 8:00** Socializing
+* **8:00 - 10:00** Four, twenty-minute lectures with ten minutes allotted for questions afterward.
+* **11:00 -** Open debate

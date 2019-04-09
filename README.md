@@ -1,6 +1,7 @@
 <p align="center">
   <img src="free-teach-trans-readme.png">
 </p>
+
 ## What is it?
 Free Teach is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, everyone is required to prepare a lecture that spans from ten to thirty minutes. After each lecture, time will be allotted for questions and debate. Free Teach meetings provide a healthy and civil environment for discussing all kinds of ideologies. Participants will be challenged on their ideas, never their character for having controversial opinions.  
 

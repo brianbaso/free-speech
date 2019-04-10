@@ -3,7 +3,7 @@
 </p>
 
 ## What is it?
-Free Teach is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, everyone is required to prepare a lecture that spans from ten to thirty minutes. After each lecture, time will be allotted for questions and debate. Free Teach meetings provide a healthy and civil environment for discussing any ideology, philosophy, or doctrine. Participants will be challenged on their views or beliefs, but never their character for having controversial opinions.
+Free Teach is a lecture series club where like-minded individuals get together to teach and learn. At a club meeting, a select few are required to prepare a lecture that spans from ten to thirty minutes. After each lecture, time will be allotted for questions and debate. Free Teach meetings provide a healthy and civil environment for discussing any ideology, philosophy, or doctrine. Participants will be challenged on their views or beliefs, but never their character for having controversial opinions.
 
 ## What is the purpose?
 The purpose of Free Teach meetings are to spread new ideas and to change perspectives on current ones. 
